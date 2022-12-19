@@ -1,0 +1,11 @@
+D:\DDT.Helper\DDT.Helper\bin\Release\DDT.Helper.exe.config
+D:\DDT.Helper\DDT.Helper\bin\Release\DDT.Helper.exe
+D:\DDT.Helper\DDT.Helper\bin\Release\DDT.Helper.pdb
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.csproj.AssemblyReference.cache
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.csproj.SuggestedBindingRedirects.cache
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.Form1.resources
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.Properties.Resources.resources
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.csproj.GenerateResource.cache
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.csproj.CoreCompileInputs.cache
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.exe
+D:\DDT.Helper\DDT.Helper\obj\Release\DDT.Helper.pdb

@@ -33,7 +33,7 @@ namespace DDT.Helper
         private void button1_Click(object sender, EventArgs e)
         {
             // open a website
-            System.Diagnostics.Process.Start("https://github.com/scarletkc/DDT.Helper");
+            System.Diagnostics.Process.Start("https://github.com/FogMoe/DDT.Helper");
         }
 
         private void Form1_Load(object sender, EventArgs e)
